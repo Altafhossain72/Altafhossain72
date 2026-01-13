@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
+# Altaf Hossain
 
-# Hi, I'm Altaf Hossain
-
-Software Architect and Full Stack Developer building cloud-native systems that scale.
+Software Architect and Full Stack Developer building AI-ready cloud platforms and real-time systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/altaf-hossain-744313215/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:altafhossain7227@gmail.com)
@@ -16,13 +14,13 @@ Software Architect and Full Stack Developer building cloud-native systems that s
 
 ## About
 
-I design modern backend platforms and lead teams to deliver reliable systems.
+I design modern backend platforms and lead teams to deliver reliable, AI-era systems.
 Open to consulting and contract work on architecture, cloud migration, and performance.
 
-**Focus**
-- Cloud-native microservices, event-driven and reactive systems
-- Java/Spring Boot with AWS, Kafka, PostgreSQL, Kubernetes
-- System performance, reliability, and cost optimization
+**What I build**
+- AI-ready platforms with strong data pipelines and event streams
+- Cloud-native microservices and reactive systems
+- Reliable, cost-efficient systems at scale
 
 ---
 
@@ -31,6 +29,7 @@ Open to consulting and contract work on architecture, cloud migration, and perfo
 - Architecture review and modernization plans
 - Monolith to microservices decomposition
 - Cloud migration strategy and execution
+- Data and event pipeline readiness for AI initiatives
 - Observability, performance tuning, and cost reduction
 
 ---
@@ -59,37 +58,12 @@ Repo: https://github.com/Altafhossain72/aws-migration-framework
 
 ---
 
----
-
 ## Key Achievements
 
-<div align="center">
-
-### Fintech Transformation
-**Built scalable transaction processing pipeline**
-- Event-driven architecture with Kafka
-- 10,000+ TPS throughput capability
-- PCI DSS compliant implementation
-
-### Architecture Modernization
-**Migrated blocking to reactive systems**
-- Project Reactor implementation
-- 40% improvement in response times
-- Enhanced resource utilization
-
-### Team Leadership
-**Led 15-member cross-functional team**
-- Increased sprint velocity by 20%
-- Reduced task completion time by 15%
-- Mentored junior engineers
-
-### Cloud Migration
-**Successfully migrated to AWS**
-- Legacy to cloud-native transformation
-- Reduced operational costs by 30%
-- Improved system availability to 99.95%
-
-</div>
+- Built a PCI DSS compliant, event-driven transaction pipeline at 10,000+ TPS
+- Modernized blocking services to reactive, improving response times by 40%
+- Led a 15-member team, boosting sprint velocity by 20%
+- Migrated legacy platforms to AWS with 30% cost reduction and 99.95% uptime
 
 ---
 
@@ -131,13 +105,5 @@ I'm always interested in hearing about new opportunities and challenging project
 <div align="center">
 
 ### "Talk is cheap. Show me the code." — Linus Torvalds
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Altafhossain72.Altafhossain72&theme=dark&icon=0)
-
-</div>
-
-<div align="center">
-
-**Made with ❤️ by Altaf Hossain**
 
 </div>
