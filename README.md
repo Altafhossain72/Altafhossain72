@@ -66,10 +66,10 @@ Databases:
 ### Architecture & Design
 ```
 Microservices       Event-Driven        Serverless
-     │                   │                  │
-     ├─ Service Mesh     ├─ Kafka          ├─ AWS Lambda
-     ├─ API Gateway      ├─ Event Sourcing ├─ Fargate
-     ├─ CQRS             ├─ CQRS           └─ Step Functions
+     │                   │                   │
+     ├─ Service Mesh     ├─ Kafka           ├─ AWS Lambda
+     ├─ API Gateway      ├─ Event Sourcing  ├─ Fargate
+     ├─ CQRS             ├─ CQRS            └─ Step Functions
      └─ SAGA Pattern     └─ Stream Processing
 ```
 
