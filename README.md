@@ -145,8 +145,8 @@ I'm a **Software Architect** and **Full Stack Developer** with deep expertise in
 
 I'm always interested in hearing about new opportunities, challenging projects, or just having a chat about software architecture.
 
-- 📧 **Email**: [your-email@example.com](mailto:altafhossain7227@gmail.com)
-- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/altaf-hossain-744313215/)
+- 📧 **Email**: [altafhossain7227@gmail.com](mailto:altafhossain7227@gmail.com)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/altaf-hossain-744313215/](https://www.linkedin.com/in/altaf-hossain-744313215/)
 - 🐙 **GitHub**: [Altafhossain72](https://github.com/Altafhossain72)
 
 ---
