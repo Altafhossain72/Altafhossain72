@@ -72,13 +72,6 @@ Microservices       Event-Driven        Serverless
      ├─ CQRS             ├─ CQRS            └─ Step Functions
      └─ SAGA Pattern     └─ Stream Processing
 ```
-Microservices       Event-Driven        Serverless
-     │                   │                   │
-     ├─ Service Mesh     ├─ Kafka           ├─ AWS Lambda
-     ├─ API Gateway      ├─ Event Sourcing  ├─ Fargate
-     ├─ CQRS             ├─ CQRS            └─ Step Functions
-     └─ SAGA Pattern     └─ Stream Processing
-```
 
 ### Cloud & Infrastructure
 ```yaml
