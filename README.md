@@ -16,8 +16,8 @@
 
 ## 🚀 Software Architect | Full Stack Developer | Tech Lead
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:YOUR_EMAIL@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/altaf-hossain-744313215/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:altafhossain7227@gmail.com)
 
 ---
 
@@ -145,8 +145,8 @@ I'm a **Software Architect** and **Full Stack Developer** with deep expertise in
 
 I'm always interested in hearing about new opportunities, challenging projects, or just having a chat about software architecture.
 
-- 📧 **Email**: [your-email@example.com](mailto:YOUR_EMAIL@domain.com)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+- 📧 **Email**: [your-email@example.com](mailto:altafhossain7227@gmail.com)
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/altaf-hossain-744313215/)
 - 🐙 **GitHub**: [Altafhossain72](https://github.com/Altafhossain72)
 
 ---
