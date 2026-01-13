@@ -2,7 +2,7 @@
 
 # Altaf Hossain
 
-Software Architect and Full Stack Developer building AI-ready cloud platforms and real-time systems.
+Software Architect and Full Stack Developer building cloud platforms and real-time systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/altaf-hossain-744313215/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:altafhossain7227@gmail.com)
@@ -14,11 +14,21 @@ Software Architect and Full Stack Developer building AI-ready cloud platforms an
 
 ## About
 
-I design modern backend platforms and lead teams to deliver reliable, AI-era systems.
+I design modern backend platforms and lead teams to deliver reliable systems.
 Open to consulting and contract work on architecture, cloud migration, and performance.
 
+<div align="center">
+
+| Focus | Strengths | Availability |
+| --- | --- | --- |
+| Fintech transactions | High-throughput, low-latency systems | Consulting and contracts |
+| Event-driven platforms | Microservices, reactive stacks | Remote or hybrid |
+| Cloud modernization | AWS migration and optimization | Project-based |
+
+</div>
+
 **What I build**
-- AI-ready platforms with strong data pipelines and event streams
+- Fintech systems for high-volume transactions and real-time processing
 - Cloud-native microservices and reactive systems
 - Reliable, cost-efficient systems at scale
 
@@ -29,7 +39,7 @@ Open to consulting and contract work on architecture, cloud migration, and perfo
 - Architecture review and modernization plans
 - Monolith to microservices decomposition
 - Cloud migration strategy and execution
-- Data and event pipeline readiness for AI initiatives
+- Fintech transaction platforms and event-driven processing
 - Observability, performance tuning, and cost reduction
 
 ---
