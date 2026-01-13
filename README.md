@@ -65,7 +65,7 @@ Databases:
 
 ### Architecture & Design
 ```
-Microservices       Event-Driven       Serverless
+Microservices       Event-Driven        Serverless
      │                   │                  │
      ├─ Service Mesh     ├─ Kafka          ├─ AWS Lambda
      ├─ API Gateway      ├─ Event Sourcing ├─ Fargate
