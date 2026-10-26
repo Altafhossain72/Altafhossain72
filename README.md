@@ -12,7 +12,7 @@ Backend engineer with 5+ years building the internet and mobile banking platform
 - **Transaction integrity** — an event-driven transaction orchestrator with idempotency, outbox and reconciliation; automated reconciliation that cut a lengthy manual job to minutes a day.
 - **Identity and security** — led the production migration to Keycloak (OAuth 2.0 / OIDC) across identity, gateway and authorization services; server-side device binding, Transaction PIN, fraud-report automation.
 - **Customer onboarding** — designed and built the bank's digital onboarding (eKYC): NID and OCR verification, selfie liveness, security questions, branch verification.
-- **AI integration** — vision models in the eKYC flow, a chatbot with voice banking in the mobile app, and agentic developer tooling (see below).
+- **AI integration** — vision models in the eKYC flow, a chatbot with voice banking in the mobile app, a server-side face liveness service (see below), and agentic developer tooling.
 - **Reliability** — rebuilt the core API on reactive Spring (WebFlux), fixed memory and connection-pool leaks under load, run production releases and merge gatekeeping.
 
 ## Stack
@@ -21,6 +21,7 @@ Java 21 · Spring Boot / WebFlux / Security / Data JPA · Keycloak, OAuth 2.0, O
 
 ## Projects
 
+- **[liveness](https://github.com/Altafhossain72/liveness)** — face liveness check that runs on the CPU: the server issues a random challenge (turn left, turn right, blink), verifies it on the recorded frames with MediaPipe Face Landmarker, and runs MiniFASNet passive anti-spoof on the same frames. FastAPI, single-use sessions, rate limits, pinned models with checksums, 42 tests including real clips. Built after seeing a client-reported liveness score in an onboarding flow.
 - **[claude-ship-pipeline](https://github.com/Altafhossain72/claude-ship-pipeline)** — `/ship`: a five-agent Claude Code pipeline (planner, coder, tester, reviewer, documenter) that takes a feature request to a reviewed local commit on a feature branch. Used in my daily work on a Java/Spring codebase.
 - **[ProjectReactorSample](https://github.com/Altafhossain72/ProjectReactorSample)** — a small Spring WebFlux + R2DBC reference project in hexagonal (ports and adapters) style, with functional and annotated endpoints and integration tests.
 
