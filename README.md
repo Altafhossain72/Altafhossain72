@@ -1,8 +1,8 @@
 # Altaf Hossain
 
-**Software Engineer · Java, Spring Boot & AI Integration · Payments and Digital Banking**
+**Backend Engineer · Java, Spring Boot · Distributed Systems and Payments**
 
-Backend engineer with 5+ years building the internet and mobile banking platform of a large state-owned bank: around 100,000 logins a day across about 35 Java/Spring services. I own the core API end to end, from design and code to production releases and the Nginx/Swarm layer in front of it.
+Backend engineer with 6+ years of development experience, including building and operating an internet and mobile banking platform serving around 100,000 logins a day. I work on distributed systems, payment reliability and security, from design and implementation through production releases and incident response.
 
 [LinkedIn](https://www.linkedin.com/in/altafhossain72) · altafhossain7227@gmail.com · Dhaka, Bangladesh (open to remote and relocation)
 
@@ -13,11 +13,13 @@ Backend engineer with 5+ years building the internet and mobile banking platform
 - **Identity and security** — led the production migration to Keycloak (OAuth 2.0 / OIDC) across identity, gateway and authorization services; server-side device binding, Transaction PIN, fraud-report automation.
 - **Customer onboarding** — designed and built the bank's digital onboarding (eKYC): NID and OCR verification, selfie liveness, security questions, branch verification.
 - **AI integration** — vision models in the eKYC flow, a chatbot with voice banking in the mobile app, a server-side face liveness service (see below), and agentic developer tooling.
-- **Reliability** — rebuilt the core API on reactive Spring (WebFlux), fixed memory and connection-pool leaks under load, run production releases and merge gatekeeping.
+- **Reliability** — re-engineered a banking API with Spring WebFlux, resolved memory and database connection leaks, and manage releases and production operations across approximately 35 services.
+- **Connected devices** — contributed to Kafka-based device data processing and built Azure Event Hubs forwarding and Azure Storage Queue consumers, as well as camera-image handling.
+- **Leadership** — lead sprint planning for a cross-functional team and mentor junior engineers.
 
 ## Stack
 
-Java 21 · Spring Boot / WebFlux / Security / Data JPA · Keycloak, OAuth 2.0, OIDC · PostgreSQL · Redis · Kafka · Docker Swarm · Nginx · Prometheus, Grafana, Graylog, Zipkin · Spring AI · Claude Code
+Java · Go · Python · Spring Boot / WebFlux / Security / Batch · PostgreSQL · Redis · Kafka · RabbitMQ · Keycloak, OAuth 2.0 / OIDC · Kubernetes · Docker / Docker Swarm · AWS · Azure Event Hubs · Prometheus · Grafana · Spring AI
 
 ## Projects
 
