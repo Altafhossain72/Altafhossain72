@@ -21,10 +21,17 @@ Backend engineer with 6+ years of development experience, including building and
 
 Java · Go · Python · Spring Boot / WebFlux / Security / Batch · PostgreSQL · Redis · Kafka · RabbitMQ · Keycloak, OAuth 2.0 / OIDC · Kubernetes · Docker / Docker Swarm · AWS · Azure Event Hubs · Prometheus · Grafana · Spring AI
 
-## Projects
+## Selected work
+
+The source code for these projects is private. The descriptions below focus on the problems and engineering approaches.
+
+- **Transaction orchestration** — designed an event-driven workflow for coordinating payment operations across multiple services. The design uses a state machine, a transactional outbox and idempotency to manage retries and uncertain outcomes. **Java · Spring Boot · PostgreSQL · Kafka / RabbitMQ · Redis**
+- **SMS notification platform** — worked on modernising a notification system into an event-driven service pipeline. The platform processes transaction data, prepares messages, dispatches notifications and tracks outcomes, with retry handling for failures. **Java · Spring Boot · RabbitMQ · PostgreSQL · Redis · Docker**
+
+## Public projects
 
 - **[claude-ship-pipeline](https://github.com/Altafhossain72/claude-ship-pipeline)** — `/ship`: a five-agent Claude Code pipeline (planner, coder, tester, reviewer, documenter) that takes a feature request to a reviewed local commit on a feature branch. Used in my daily work on a Java/Spring codebase.
 - **[ProjectReactorSample](https://github.com/Altafhossain72/ProjectReactorSample)** — a small Spring WebFlux + R2DBC reference project in hexagonal (ports and adapters) style, with functional and annotated endpoints and integration tests.
 - **[liveness](https://github.com/Altafhossain72/liveness)** — face liveness check that runs on the CPU: the server issues a random challenge (turn left, turn right, blink), verifies it on the recorded frames with MediaPipe Face Landmarker, and runs MiniFASNet passive anti-spoof on the same frames. FastAPI, single-use sessions, rate limits, pinned models with checksums, 42 tests including real clips. Built after seeing a client-reported liveness score in an onboarding flow.
 
-Most of my production work lives in private bank repositories, so this profile shows side projects and tooling only. Happy to walk through the architecture of any of the systems above in an interview.
+My professional work lives in private repositories; the public projects above show personal work and tooling. I enjoy discussing the design decisions and trade-offs behind the systems I work on.
