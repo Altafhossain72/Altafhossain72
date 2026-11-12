@@ -8,6 +8,7 @@ Backend engineer with 6+ years of development experience, including building and
 
 ## What I work on
 
+- **Frontend delivery** — developed and enhanced frontend features across customer, admin and payment portals, supporting banking and payment workflows with Angular and TypeScript; also worked with React.
 - **Payments** — interbank transfers (NPSB), bKash and Nagad wallets, Bangla QR, a generic bill-payment engine (any biller added by configuration), standing instructions and recurring scheme deposits.
 - **Transaction integrity** — an event-driven transaction orchestrator with idempotency, outbox and reconciliation; automated reconciliation that cut a lengthy manual job to minutes a day.
 - **Identity and security** — led the production migration to Keycloak (OAuth 2.0 / OIDC) across identity, gateway and authorization services; server-side device binding, Transaction PIN, fraud-report automation.
@@ -19,7 +20,7 @@ Backend engineer with 6+ years of development experience, including building and
 
 ## Stack
 
-Java · Go · Python · Spring Boot / WebFlux / Security / Batch · PostgreSQL · Redis · Kafka · RabbitMQ · Keycloak, OAuth 2.0 / OIDC · Kubernetes · Docker / Docker Swarm · AWS · Azure Event Hubs · Prometheus · Grafana · Spring AI
+Java · Go · Python · TypeScript · Angular · React · Spring Boot / WebFlux / Security / Batch · PostgreSQL · Redis · Kafka · RabbitMQ · Keycloak, OAuth 2.0 / OIDC · Kubernetes · Docker / Docker Swarm · AWS · Azure Event Hubs · Prometheus · Grafana · Spring AI
 
 ## Selected work
 
