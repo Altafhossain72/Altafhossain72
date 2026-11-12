@@ -8,7 +8,6 @@ Backend engineer with 6+ years of development experience, including building and
 
 ## What I work on
 
-- **Frontend delivery** — developed and enhanced frontend features across customer, admin and payment portals, supporting banking and payment workflows with Angular and TypeScript; also worked with React.
 - **Payments** — interbank transfers (NPSB), bKash and Nagad wallets, Bangla QR, a generic bill-payment engine (any biller added by configuration), standing instructions and recurring scheme deposits.
 - **Transaction integrity** — an event-driven transaction orchestrator with idempotency, outbox and reconciliation; automated reconciliation that cut a lengthy manual job to minutes a day.
 - **Identity and security** — led the production migration to Keycloak (OAuth 2.0 / OIDC) across identity, gateway and authorization services; server-side device binding, Transaction PIN, fraud-report automation.
@@ -16,6 +15,7 @@ Backend engineer with 6+ years of development experience, including building and
 - **AI integration** — vision models in the eKYC flow, a chatbot with voice banking in the mobile app, a server-side face liveness service (see below), and agentic developer tooling.
 - **Reliability** — re-engineered a banking API with Spring WebFlux, resolved memory and database connection leaks, and manage releases and production operations across approximately 35 services.
 - **Connected devices** — contributed to Kafka-based device data processing and built Azure Event Hubs forwarding and Azure Storage Queue consumers, as well as camera-image handling.
+- **Frontend delivery** — developed and enhanced frontend features across customer, admin and payment portals, supporting banking and payment workflows with Angular and TypeScript; also worked with React.
 - **Leadership** — lead sprint planning for a cross-functional team and mentor junior engineers.
 
 ## Stack
