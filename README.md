@@ -16,7 +16,7 @@ Backend engineer with 6+ years of development experience, including building and
 - **Reliability** — re-engineered a banking API with Spring WebFlux, resolved memory and database connection leaks, and manage releases and production operations across approximately 35 services.
 - **Connected devices** — contributed to Kafka-based device data processing and built Azure Event Hubs forwarding and Azure Storage Queue consumers, as well as camera-image handling.
 - **Frontend delivery** — developed and enhanced frontend features across customer, admin and payment portals, supporting banking and payment workflows with Angular and TypeScript; also worked with React.
-- **Leadership** — lead sprint planning for a cross-functional team and mentor junior engineers.
+- **Leadership** — lead feature delivery and sprint planning, manage the backend team, and mentor junior engineers in a cross-functional environment.
 
 ## Stack
 
