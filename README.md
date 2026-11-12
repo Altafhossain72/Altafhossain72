@@ -14,6 +14,7 @@ Backend engineer with 6+ years of development experience, including building and
 - **Customer onboarding** — designed and built the bank's digital onboarding (eKYC): NID and OCR verification, selfie liveness, security questions, branch verification.
 - **AI integration** — vision models in the eKYC flow, a chatbot with voice banking in the mobile app, a server-side face liveness service (see below), and agentic developer tooling.
 - **Reliability** — re-engineered a banking API with Spring WebFlux, resolved memory and database connection leaks, and manage releases and production operations across approximately 35 services.
+- **Healthtech** — contributed to a healthcare notification service supporting scheduled and user-specific push notifications using Java, Spring WebFlux and Firebase.
 - **Connected devices** — contributed to Kafka-based device data processing and built Azure Event Hubs forwarding and Azure Storage Queue consumers, as well as camera-image handling.
 - **Frontend delivery** — developed and enhanced frontend features across customer, admin and payment portals, supporting banking and payment workflows with Angular and TypeScript; also worked with React.
 - **Leadership** — lead feature delivery and sprint planning, manage the backend team, and mentor junior engineers in a cross-functional environment.
