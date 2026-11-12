@@ -30,6 +30,7 @@ The source code for these projects is private. The descriptions below focus on t
 - **Transaction orchestration** — designed an event-driven workflow for coordinating payment operations across multiple services. The design uses a state machine, a transactional outbox and idempotency to manage retries and uncertain outcomes. **Java · Spring Boot · PostgreSQL · Kafka / RabbitMQ · Redis**
 - **Event-driven notifications** — developed notification processing with RabbitMQ, using asynchronous messaging to separate event producers from delivery work. **Java · Spring Boot · RabbitMQ**
 - **SMS notification platform** — worked on modernising a notification system into an event-driven service pipeline. The platform processes transaction data, prepares messages, dispatches notifications and tracks outcomes, with retry handling for failures. **Java · Spring Boot · RabbitMQ · PostgreSQL · Redis · Docker**
+- **Healthtech notifications** — contributed to a notification service supporting scheduled and user-specific push notifications for a healthcare platform. **Java · Spring WebFlux · Firebase**
 - **Connected-device data forwarding** — contributed to processing and forwarding device data, including event streaming, queue-based handling and image integration. **Java · Kafka · Azure Event Hubs · Azure Storage Queues · AWS S3**
 - **Transaction reconciliation** — developed tools to compare transaction records across systems, surface mismatches and support operational review. **Python · PostgreSQL · Flask**
 
